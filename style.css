@@ -1,0 +1,123 @@
+.outline-1{
+    width: 40%;
+    height: 40vh;
+    border: 1px solid black;
+    margin: auto;
+    background-color: bisque;
+}
+.heading{
+    padding: 30px;
+}
+#label{
+    padding:30px ;   
+    font-size: 1.25rem; 
+}
+#btn{
+    width:80px;
+    height: 20px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+#btn:hover{
+    color: #ffffff;
+    background:black;
+}
+.outline-2{
+    width: 40%;
+    height: 40vh;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 30px;
+    background-color: blueviolet;
+}
+.title{
+    color: #ffffff;
+    padding: 30px;
+}
+#label-1{
+    color: #ffffff;
+    padding: 30px;
+}
+#btn-1{
+    width:80px;
+    height: 20px;
+    margin-left: 235px;
+    margin-top: 10px;
+}
+#btn-1:hover{
+    color: #ffffff;
+    background:black;
+}
+.outline-3{
+    width: 40%;
+    height: 40vh;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 30px;
+    background-color: aquamarine;
+}
+.title-1{
+    padding: 30px;
+}
+#label-2{
+    padding: 30px;
+}
+#btn-2{
+    width:80px;
+    height: 20px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+#btn-2:hover{
+    color: #ffffff;
+    background:black;
+}
+.outline-4{
+    width: 40%;
+    height: 40vh;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 30px;
+    background-color:cadetblue;
+
+}
+.title-2{
+    padding: 30px;
+}
+#label-3{
+    padding: 30px;
+}
+#btn-3{
+    width:80px;
+    height: 20px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+#btn-3:hover{
+    color: #ffffff;
+    background:black;
+}
+.outline-5{
+    width: 40%;
+    height: 40vh;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 30px;
+    background-color:darkgrey;
+}
+.title-3{
+    padding: 30px;
+}
+#label-4{
+    padding: 30px;
+}
+#btn-4{
+    width:80px;
+    height: 20px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+#btn-4:hover{
+    color: #ffffff;
+    background:black;
+}
